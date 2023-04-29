@@ -1,2 +1,8 @@
-# Smart_Chatbot
-Smart Chatbot is an application made in python to perform various activities like playing music, editting images, playing music according the mood of the user. You can ask  any question to the bot. The Chat bot is integrated with ChatGPT and openai.
+# PONG-GAME
+ 👉🏻 It is a simple Pong Game in Python using Pygame.
+ 
+---
+
+<p align="center"> <b> 👉🏻 Created Pong Game 👈🏻 <b> </p>
+ 
+<p align="center"><a href='https://github.com/Amey-Thakur/PONG-GAME', style='color: greenyellow;'> ✌🏻 Back To Repository ✌🏻</p>
