@@ -1,0 +1,7 @@
+1. speech recognition // uses speech and saves the message in a variable and can be used for the assistant to read
+2. wavio  // used to save the audio in a audio wave file
+3. requests //
+4. tkinter
+5. datetime
+6. json 
+7. pyjokes

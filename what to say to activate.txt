@@ -1,0 +1,16 @@
+alexa
+weather
+mumbai
+tell me a joke
+tell me the time
+tell me the latest news
+
+
+open the music player
+
+
+
+say this inside ai8.py
+
+
+
