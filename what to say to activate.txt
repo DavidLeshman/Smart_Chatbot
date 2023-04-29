@@ -1,6 +1,6 @@
 alexa
 weather
-mumbai
+
 tell me a joke
 tell me the time
 tell me the latest news
